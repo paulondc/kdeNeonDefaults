@@ -1,5 +1,5 @@
 ### What is this project about ?
-This project is used to share initial [KDE neon](https://neon.kde.org/) settings, since it can be very demanding to configure KDE from scratch. The overall goal of these settings is to provide an easy & intuitive workflow without giving up the modern usability enhancements found in other systems.
+This project is used to share initial [KDE neon](https://neon.kde.org/) settings, since it can be very demanding to configure KDE from scratch. The overall goal of these settings is to provide an easy & intuitive workflow without giving up usability enhancements that takes advantage of modern hardware.
 ![screenshot](./data/screenshot.png)
 
 ### How does it work ?
@@ -7,7 +7,7 @@ Everything is done on top of [KDE neon](https://neon.kde.org/), it does not use 
 
 ![KDE neon](./data/neon-logo.png)
 
-It works by providing config files that contain pre-defined settings. These settings were isolate from my initial [KDE neon](https://neon.kde.org/) installation, they contain modifications all over KDE from little things aka not showing the icon in window's title bar to changing some of the global shortcuts (described below).
+It works by providing config files that contain pre-defined settings. These settings were isolate from a fresh [KDE neon](https://neon.kde.org/) installation. It contains modifications all over KDE from little things aka not showing the icon at window's title bar to changing some of the global shortcuts (described below).
 
 ### How do I get it ?
 It requires [KDE neon](https://neon.kde.org/) 5.9 (or greater).
