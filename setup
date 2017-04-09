@@ -1,0 +1,7 @@
+#!/bin/bash
+
+kdialog --msgbox "In order to apply the configuration your session will be logoff automatically at the end of this process"
+rsync -avh --ignore-times ./defaults/ ~/
+killall plasmashell
+qdbus org.kde.ksmserver /KSMServer logout 0 0 0
+killall konsole # killing console at last step
