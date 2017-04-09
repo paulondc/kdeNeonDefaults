@@ -33,7 +33,7 @@ cd kdeNeonDefaults-master
 - change to next virtual desktop: `alt + left`
 - change to previous virtual desktop: `alt + right`
 
-For the next set of shortcuts I recommend you to put a [sticker in the F8 key](./data/f8-sticker.png):
+For the next set of shortcuts I recommend you to put a [sticker on F8 key](./data/f8-sticker.png):
 ![key](./data/kde-expose-key.jpg)
 
 - present all windows (expose): `F8`
