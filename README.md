@@ -1,5 +1,5 @@
 ### What is this project about ?
-I use this project to store my personal [KDE neon](https://neon.kde.org/) settings, since it can be very demanding to configure KDE from scratch. The overall goal of these settings is to provide an easy & intuitive workflow without giving up the modern usability enhancements found in other systems.
+This project is used to share initial [KDE neon](https://neon.kde.org/) settings, since it can be very demanding to configure KDE from scratch. The overall goal of these settings is to provide an easy & intuitive workflow without giving up the modern usability enhancements found in other systems.
 ![screenshot](./data/screenshot.png)
 
 ### How does it work ?
