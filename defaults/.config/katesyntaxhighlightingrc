@@ -1,0 +1,61 @@
+[Default Item Styles - Schema KDE]
+Alert=ffda4453,ffda4453,1,,,,ff4d1f24,-,,---
+Annotation=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Attribute=ff2980b9,fffdbc4b,,,,,-,-,,---
+Base-N Integer=fff67400,fff67400,,,,,-,-,,---
+Built-in=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Character=ff3daee9,fffcfcfc,,,,,-,-,,---
+Comment=ffbdc3c7,ffeff0f1,,,,,-,-,,---
+Comment Variable=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Constant=ffeff0f1,ffeff0f1,1,,,,-,-,,---
+Control Flow=ffeff0f1,ffeff0f1,1,,,,-,-,,---
+Data Type=ff2980b9,fffdbc4b,,,,,-,-,,---
+Decimal/Value=fff67400,fff67400,,,,,-,-,,---
+Documentation=ffda4453,ffda4453,,,,,-,-,,---
+Error=ffda4453,ffda4453,,,,,-,-,,---
+Extension=ff0095ff,ffeff0f1,1,,,,-,-,,---
+Floating Point=fff67400,fff67400,,,,,-,-,,---
+Function=fff67400,fff67400,,,,,-,-,,---
+Import=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Information=fff67400,fff67400,,,,,-,-,,---
+Keyword=ffeff0f1,ffeff0f1,1,,,,-,-,,---
+Normal=ffeff0f1,ffeff0f1,,,,,-,-,,---
+Operator=ffeff0f1,ffeff0f1,,,,,-,-,,---
+Others=ff27ae60,ff27ae60,,,,,-,-,,---
+Preprocessor=ff27ae60,ff27ae60,,,,,-,-,,---
+Region Marker=ff2980b9,fffdbc4b,,,,,ff153042,-,,---
+Special Character=ff3daee9,fffcfcfc,,,,,-,-,,---
+Special String=ffda4453,ffda4453,,,,,-,-,,---
+String=ffda4453,ffda4453,,,,,-,-,,---
+Variable=ff2980b9,fffdbc4b,,,,,-,-,,---
+Verbatim String=ffda4453,ffda4453,,,,,-,-,,---
+Warning=ffda4453,ffda4453,,,,,-,-,,---
+
+[Default Item Styles - Schema Normal]
+Attribute=ff277ec3,ff277ec3,,0,,,-,-,,---
+Base-N Integer=fffa5e5b,fffa5e5b,,,,,-,-,,---
+Built-in=ff8e55e9,ff8e55e9,1,0,,,-,-,,---
+Character=ff9e54b3,ff9e54b3,,0,,,-,-,,---
+Constant=fffa5e5b,fffa5e5b,0,0,,,-,-,,---
+Control Flow=ffffffff,ffffffff,1,0,,,-,-,,---
+Data Type=ff5497ef,ff5497ef,,,,,-,-,,---
+Decimal/Value=fffa5e5b,fffa5e5b,,,,,-,-,,---
+Extension=ff277ec3,ffffffff,0,0,,,-,-,,---
+Floating Point=fffa5e5b,fffa5e5b,,,,,-,-,,---
+Function=ff8e55e9,ff8e55e9,,0,,,-,-,,---
+Import=fffa5e5b,fffa5e5b,0,0,,,-,-,,---
+Keyword=ffffffff,ffffffff,1,0,,,-,-,,---
+Normal=ffffffff,ff181818,0,,,,-,-,,---
+Operator=ffffffff,ffffffff,,0,,,-,-,,---
+Preprocessor=ff1d9271,ff1d9271,,0,,,-,-,,---
+Special Character=ff5497ef,fffcfcfc,,0,,,-,-,,---
+Special String=fffa5e5b,fffa5e5b,,0,,,-,-,,---
+String=fffa5e5b,fffa5e5b,,0,,,-,-,,---
+Variable=ff277ec3,ff277ec3,,0,,,-,-,,---
+Verbatim String=fffa5e5b,fffa5e5b,,0,,,-,-,,---
+
+[Highlighting None - Schema KDE]
+Normal Text=0,,,,,,,,,,---
+
+[Highlighting None - Schema Normal]
+Normal Text=0,,,,,,,,,,---

@@ -1,0 +1,13 @@
+[Keyboard]
+KeyboardRepeating=0
+NumLock=0
+RepeatDelay=600
+RepeatRate=25
+
+[Mouse]
+Acceleration=2
+MouseButtonMapping=RightHanded
+ReverseScrollPolarity=false
+Threshold=4
+cursorSize=24
+cursorTheme=breeze_cursors
