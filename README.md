@@ -1,5 +1,5 @@
 ### What is this project about ?
-This project is used to share initial [KDE neon](https://neon.kde.org/) settings, since it can be very demanding to configure KDE from scratch. The overall goal of these settings is to provide an easy & intuitive workflow without giving up usability enhancements that takes advantage of modern hardware.
+This project is used to share initial [KDE neon](https://neon.kde.org/) settings, since it can be very demanding to configure KDE from scratch. The overall goal of these settings is to provide an easy & intuitive workflow without giving up usability enhancements that take advantage of modern hardware.
 ![screenshot](./data/screenshot.png)
 
 ### How does it work ?
