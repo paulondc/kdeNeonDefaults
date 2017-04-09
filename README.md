@@ -31,7 +31,7 @@ cd kdeNeonDefaults-master
 - change to previous virtual desktop: `alt + right`
 
 The next set of shortcuts I recommend you to put a sticker in the F8 key of your keyboard:
-![key](./data/kde-expose-key.png)
+![key](./data/kde-expose-key.jpg)
 
 - present all windows (expose): `F8`
 - show desktop grid (spaces): `ctrl + F8`
