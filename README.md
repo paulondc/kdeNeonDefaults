@@ -44,4 +44,5 @@ For the next set of shortcuts I recommend you to put a [sticker on F8 key](./dat
 - kwrite
 - dolphin
 - konsole
+- kdiff3
 - konversation
