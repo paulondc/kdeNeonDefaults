@@ -7,14 +7,14 @@ Everything is done on top of [KDE neon](https://neon.kde.org/), it does not use 
 
 ![KDE neon](./data/neon-logo.png)
 
-It works by providing config files that contain pre-defined settings. Therefore, I managed to isolate the settings that were related with the changes I made in my initial KDE neon installation and created a bundle for them. By using it you should get the same look & feel.
+It works by providing config files that contain pre-defined settings. These settings were isolate from my initial [KDE neon](https://neon.kde.org/) installation, they contain modifications all over KDE from little things aka not showing the icon in window's title bar to changing some of the global shortcuts (described below).
 
 ### How do I get it ?
 It requires [KDE neon](https://neon.kde.org/) 5.9 (or greater).
 
 [Download](https://github.com/paulondc/kdeNeonDefaults/archive/master.zip) the zip (or git clone the project):
 unzip the contents and run the setup:
-```
+```bash
 wget https://github.com/paulondc/kdeNeonDefaults/archive/master.zip -O kdeNeonDefaults.zip
 unzip kdeNeonDefaults.zip
 cd kdeNeonDefaults-master
