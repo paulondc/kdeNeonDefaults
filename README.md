@@ -23,8 +23,9 @@ cd kdeNeonDefaults-master
 
 > Be aware by running the setup it will override your current settings (you may want to create a backup of your current configuration for the directories  `~/.config, ~/.kde and ~/.local` beforehand).
 
+---
 
-### customized shortcuts:
+#### Customized shortcuts:
 - open dolphin:  `super + e`
 - open konsole: `super + r`
 - minimize/restore all windows: `super + d`
@@ -39,7 +40,7 @@ The next set of shortcuts I recommend you to put a sticker in the F8 key of your
 - show desktop grid (spaces): `ctrl + F8`
 - show desktop: `shift + F8`
 
-### customized applications:
+#### Customized applications:
 - kwrite
 - dolphin
 - konsole
