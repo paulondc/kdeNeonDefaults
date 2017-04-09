@@ -46,3 +46,6 @@ For the next set of shortcuts I recommend you to put a [sticker on F8 key](./dat
 - konsole
 - kdiff3
 - konversation
+
+### Licensing
+kdeNeonDefaults is free software; you can redistribute it and/or modify it under the terms of the MIT License
