@@ -12,7 +12,7 @@ It works by providing pre-defined config files where they were isolate from a fr
 ### How do I get it ?
 It requires [KDE neon](https://neon.kde.org/) 5.9 (or greater).
 
-[Download](https://github.com/paulondc/kdeNeonDefaults/archive/master.zip) the zip (or git clone the project):
+[Download the zip](https://github.com/paulondc/kdeNeonDefaults/archive/master.zip) (or git clone the project):
 unzip the contents and run the setup:
 ```bash
 wget https://github.com/paulondc/kdeNeonDefaults/archive/master.zip -O kdeNeonDefaults.zip
