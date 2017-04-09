@@ -1,14 +1,16 @@
 ### What is this project about ?
-I use this project to store my personal KDE neon settings, since it can be very demanding to configure KDE from scratch. The overall goal of these settings is to provide an easy & intuitive workflow without giving up the modern usability enhancements found in other systems.
+I use this project to store my personal [KDE neon](https://neon.kde.org/) settings, since it can be very demanding to configure KDE from scratch. The overall goal of these settings is to provide an easy & intuitive workflow without giving up the modern usability enhancements found in other systems.
 ![screenshot](./data/screenshot.png)
 
 ### How does it work ?
-Everything is done on top of kde neon, it does not use any special theme or extension.
+Everything is done on top of [KDE neon](https://neon.kde.org/), it does not use any special theme or extension.
+
+![KDE neon](./data/neon-logo.png)
 
 It works by providing config files that contain pre-defined settings. Therefore, I managed to isolate the settings that were related with the changes I made in my initial KDE neon installation and created a bundle for them. By using it you should get the same look & feel.
 
 ### How do I get it ?
-It requires KDE neon 5.9 (or greater).
+It requires [KDE neon](https://neon.kde.org/) 5.9 (or greater).
 
 [Download](https://github.com/paulondc/kdeNeonDefaults/archive/master.zip) the zip (or git clone the project):
 unzip the contents and run the setup:
