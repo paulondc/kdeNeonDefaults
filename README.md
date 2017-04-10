@@ -1,3 +1,5 @@
+[![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
+
 ### What is this project about ?
 
 This project is used to share initial [KDE neon](https://neon.kde.org/) settings that simplify even further some of the defaults in KDE neon. The overall goal is to provide an easy & intuitive workflow without giving up usability enhancements that take advantage of modern hardware.
