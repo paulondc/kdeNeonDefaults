@@ -1,7 +1,20 @@
 #!/bin/bash
 
-kdialog --msgbox "In order to apply the configuration your session will be logoff automatically at the end of this process"
+# prompt dialogue
+style=$(kdialog --combobox "Please select the look & feel you want to apply:" "Mac-ish (Default)" "Unity-ish" --default "Mac-ish (Default)" --title "kdeNeonDefaults")
+if [ -z "$style" ]; then
+    exit 0
+fi
+
+# running the setup
+kdialog --msgbox "In order to apply the configuration your session will be logoff automatically at the end of this process" --title "kdeNeonDefaults" 
 rsync -avh --ignore-times ./defaults/ ~/
+
+# custom diff applied when selecting unity-ish
+if [ "$style" = "Unity-ish" ]; then
+    patch -N -p3 ~/.config/plasma-org.kde.plasma.desktop-appletsrc < ./styles/unity-ish/plasma-org.kde.plasma.desktop-appletsrc.diff
+fi
+
 killall plasmashell
 qdbus org.kde.ksmserver /KSMServer logout 0 0 0
 killall konsole # killing console at last step
