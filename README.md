@@ -9,7 +9,7 @@ It's available in two flavours:
 ![screenshot](./data/unity-ish-screenshot.png)
 
 ### How does it work ?
-Everything is done on top of [KDE neon](https://neon.kde.org/), it does not use any special theme or extension.
+Everything is done on top of [KDE neon](https://neon.kde.org/), it does not require any external dependency.
 
 ![KDE neon](./data/neon-logo.png)
 
