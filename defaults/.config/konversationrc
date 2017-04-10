@@ -117,7 +117,7 @@ SSLEnabled=false
 Server=chat.freenode.net
 
 [ServerGroup 0]
-AutoConnect=true
+AutoConnect=false
 AutoJoinChannels=Channel 0,Channel 1,Channel 2,Channel 3,Channel 4,Channel 5,Channel 6,Channel 7,Channel 8
 ChannelHistory=Channel 9,Channel 10,Channel 11,Channel 12,Channel 13,Channel 14,Channel 15,Channel 16,Channel 17,Channel 18,Channel 19,Channel 20,Channel 21,Channel 22,Channel 23,Channel 24
 ConnectCommands=
@@ -127,10 +127,6 @@ Identity=Default Identity
 Name=freenode
 NotifyList=
 ServerList=Server 0
-
-[ServerListDialog]
-ServerListHeaderState=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03ë\x00\x00\x00\x03\x00\x01\x00\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00»ˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00ñ\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x00»\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x023\x00\x00\x00\x01\x00\x00\x00\x00\x00\x00\x03Ë\x01\x00\x00\x00»
-Size=1027,602
 
 [Tab Notifications]
 TabNotificationsHighlightsColor=188,82,83
