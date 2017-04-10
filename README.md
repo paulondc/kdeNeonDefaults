@@ -28,7 +28,7 @@ cd kdeNeonDefaults-master
 ./setup
 ```
 
-Or just run the same above in one-line :ok_hand::
+Or just do the same above in one-line :ok_hand::
 ```bash
 cd $(mktemp -d) && wget https://github.com/paulondc/kdeNeonDefaults/archive/master.zip -O kdeNeonDefaults.zip && unzip kdeNeonDefaults.zip && ./kdeNeonDefaults-master/setup
 ```
