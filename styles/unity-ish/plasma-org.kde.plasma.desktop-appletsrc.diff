@@ -1,0 +1,30 @@
+diff --git a/defaults/.config/plasma-org.kde.plasma.desktop-appletsrc b/defaults/.config/plasma-org.kde.plasma.desktop-appletsrc
+index d59bf5e..094d399 100644
+--- a/defaults/.config/plasma-org.kde.plasma.desktop-appletsrc
++++ b/defaults/.config/plasma-org.kde.plasma.desktop-appletsrc
+@@ -44,10 +44,10 @@ ItemsGeometries=Applet-48:1648,16,256,240,0;Applet-49:1648,256,256,144,0;Applet-
+ 
+ [Containments][2]
+ activityId=
+-formfactor=2
++formfactor=3
+ immutability=1
+ lastScreen=0
+-location=4
++location=5
+ plugin=org.kde.panel
+ wallpaperplugin=org.kde.image
+ 
+@@ -173,10 +173,10 @@ AppletOrder=47;21;23;6;8;42
+ 
+ [Containments][7]
+ activityId=
+-formfactor=2
++formfactor=3
+ immutability=1
+ lastScreen=0
+-location=4
++location=5
+ plugin=org.kde.plasma.private.systemtray
+ wallpaperplugin=org.kde.image
+ 

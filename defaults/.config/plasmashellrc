@@ -46,3 +46,43 @@ maxLength=1296
 minLength=1260
 panelVisibility=2
 thickness=66
+
+[PlasmaViews][Panel 2][Vertical768]
+alignment=1
+panelVisibility=0
+thickness=48
+
+[PlasmaViews][Panel 2][Vertical800]
+alignment=1
+panelVisibility=0
+thickness=48
+
+[PlasmaViews][Panel 2][Vertical864]
+alignment=1
+panelVisibility=0
+thickness=48
+
+[PlasmaViews][Panel 2][Vertical900]
+alignment=1
+panelVisibility=0
+thickness=48
+
+[PlasmaViews][Panel 2][Vertical1024]
+alignment=1
+panelVisibility=0
+thickness=66
+
+[PlasmaViews][Panel 2][Vertical1050]
+alignment=1
+panelVisibility=0
+thickness=66
+
+[PlasmaViews][Panel 2][Vertical1080]
+alignment=1
+panelVisibility=0
+thickness=66
+
+[PlasmaViews][Panel 2][Vertical2160]
+alignment=1
+panelVisibility=0
+thickness=66
