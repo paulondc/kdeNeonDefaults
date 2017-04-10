@@ -18,21 +18,9 @@ It works by providing pre-defined config files that were isolated from a fresh [
 ### How do I get it ?
 It requires [KDE neon](https://neon.kde.org/) 5.9 (or greater).
 
-Get it by one-line :ok_hand::
+It can be done by simply executing the line bellow :ok_hand::
 ```bash
 cd $(mktemp -d) && wget https://github.com/paulondc/kdeNeonDefaults/archive/master.zip -O kdeNeonDefaults.zip && unzip kdeNeonDefaults.zip && cd kdeNeonDefaults-master && ./setup
-```
-
-Or get it by executing the instructions bellow:
-
-[Download the zip](https://github.com/paulondc/kdeNeonDefaults/archive/master.zip) (or git clone the project):
-unzip the contents and run the setup:
-
-```bash
-wget https://github.com/paulondc/kdeNeonDefaults/archive/master.zip -O kdeNeonDefaults.zip
-unzip kdeNeonDefaults.zip
-cd kdeNeonDefaults-master
-./setup
 ```
 
 > Be aware by running the setup it will override your current settings (you may want to create a backup of your current configuration for the directories  `~/.config, ~/.kde and ~/.local` beforehand).
