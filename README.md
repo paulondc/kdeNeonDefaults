@@ -1,8 +1,8 @@
 ### What is this project about ?
 
-This project is used to share initial [KDE neon](https://neon.kde.org/) settings, since it can be very demanding to configure KDE from scratch. The overall goal of these settings is to provide an easy & intuitive workflow without giving up usability enhancements that takes advantage of modern hardware.
+This project is used to share initial [KDE neon](https://neon.kde.org/) settings (don't get me wrong KDE neon comes with reasonable default settings), however in order to simplify even further some of the default settings in KDE it can get very demanding. The overall goal of this project is to provide an easy & intuitive workflow without giving up usability enhancements that take advantage of modern hardware.
 
-It's shipped in two different flavours:
+It's available in two different flavours:
 
 ![screenshot](./data/mac-ish-screenshot.png)
 ---
@@ -50,7 +50,7 @@ For the next set of shortcuts I recommend you to put a [sticker on F8 key](./dat
 - show desktop grid (spaces): `ctrl + F8`
 - show desktop: `shift + F8`
 
-#### Customized applications:
+#### Fine integrated/customized applications:
 - kwrite
 - dolphin
 - konsole
