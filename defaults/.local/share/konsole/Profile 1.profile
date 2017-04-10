@@ -14,4 +14,5 @@ AutoCopySelectedText=true
 MiddleClickPasteMode=1
 
 [Scrolling]
-HistoryMode=2
+HistoryMode=1
+HistorySize=5000
