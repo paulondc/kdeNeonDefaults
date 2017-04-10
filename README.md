@@ -29,8 +29,9 @@ cd kdeNeonDefaults-master
 
 > Be aware by running the setup it will override your current settings (you may want to create a backup of your current configuration for the directories  `~/.config, ~/.kde and ~/.local` beforehand).
 
+***Dialogue displayed during the setup***
+
 ![setup](./data/setup-ui.png)
-(Dialogue displayed during the setup)
 
 ---
 
