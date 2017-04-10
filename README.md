@@ -2,7 +2,7 @@
 
 This project is used to share initial [KDE neon](https://neon.kde.org/) settings (don't get me wrong KDE neon comes with reasonable default settings), however in order to simplify even further some of the default settings in KDE it can get very demanding. The overall goal of this project is to provide an easy & intuitive workflow without giving up usability enhancements that take advantage of modern hardware.
 
-It's available in two different flavours:
+It's available in two flavours:
 
 ![screenshot](./data/mac-ish-screenshot.png)
 ---
