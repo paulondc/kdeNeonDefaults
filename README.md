@@ -7,7 +7,7 @@ Everything is done on top of [KDE neon](https://neon.kde.org/), it does not use 
 
 ![KDE neon](./data/neon-logo.png)
 
-It works by providing pre-defined config files that were isolate from a fresh [KDE neon](https://neon.kde.org/) installation. It contains modifications all over KDE from little things aka not showing the icon at window's title bar to changing some of the global shortcuts (described below).
+It works by providing pre-defined config files that were isolated from a fresh [KDE neon](https://neon.kde.org/) installation. It contains modifications all over KDE from little things aka not showing the icon at window's title bar to changing some of the global shortcuts (described below).
 
 ### How do I get it ?
 It requires [KDE neon](https://neon.kde.org/) 5.9 (or greater).
