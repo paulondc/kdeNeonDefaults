@@ -15,7 +15,7 @@ Everything is done on top of [KDE neon](https://neon.kde.org/), it does not requ
 
 ![KDE neon](./data/neon-logo.png)
 
-It works by providing pre-defined config files that were isolated from a fresh [KDE neon](https://neon.kde.org/) installation. It contains modifications all over KDE from little things aka not showing the icon at window's title bar to changing some of the global shortcuts (described further below).
+It works by providing pre-defined config files that were isolated from a fresh [KDE neon](https://neon.kde.org/) installation. It contains modifications all over KDE from little things aka not showing the bouncing icon during the launch of applications ![no bouncing cursor](./data/no-bouncing-cursor.gif) to changing some of the global shortcuts (described further below).
 
 ### How do I get it ?
 You can get it by simply running the line bellow in your terminal :point_down:
@@ -53,4 +53,4 @@ For the next set of shortcuts I recommend you to put a [sticker on F8 key](./dat
 - konversation
 
 ### Licensing
-kdeNeonDefaults is free software; you can redistribute it and/or modify it under the terms of the MIT License
+kdeNeonDefaults is free software; you can redistribute it and/or modify it under the terms of the MIT License.
