@@ -34,7 +34,7 @@ cd $(mktemp -d) && wget https://github.com/paulondc/kdeNeonDefaults/archive/mast
 - open dolphin:  `super + e`
 - open konsole: `super + r`
 - minimize/restore all windows: `super + d`
-- close current window: `ctrl + w`
+- close current window: `ctrl + w` or `alt + F4`
 - change to next virtual desktop: `alt + left`
 - change to previous virtual desktop: `alt + right`
 
