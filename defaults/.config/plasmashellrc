@@ -2,49 +2,49 @@
 alignment=132
 maxLength=1000
 minLength=900
-panelVisibility=2
+panelVisibility=3
 thickness=42
 
 [PlasmaViews][Panel 2][Horizontal1280]
 alignment=132
 maxLength=1000
 minLength=900
-panelVisibility=2
+panelVisibility=3
 thickness=48
 
 [PlasmaViews][Panel 2][Horizontal1366]
 alignment=132
 maxLength=1296
 minLength=1260
-panelVisibility=2
+panelVisibility=3
 thickness=66
 
 [PlasmaViews][Panel 2][Horizontal1440]
 alignment=132
 maxLength=1296
 minLength=1260
-panelVisibility=2
+panelVisibility=3
 thickness=66
 
 [PlasmaViews][Panel 2][Horizontal1680]
 alignment=132
 maxLength=1296
 minLength=1260
-panelVisibility=2
+panelVisibility=3
 thickness=66
 
 [PlasmaViews][Panel 2][Horizontal1920]
 alignment=132
 maxLength=1296
 minLength=1260
-panelVisibility=2
+panelVisibility=3
 thickness=66
 
 [PlasmaViews][Panel 2][Horizontal3840]
 alignment=132
 maxLength=1296
 minLength=1260
-panelVisibility=2
+panelVisibility=3
 thickness=66
 
 [PlasmaViews][Panel 2][Vertical768]
