@@ -18,7 +18,7 @@ Everything is done on top of [KDE neon](https://neon.kde.org/), it does not requ
 It works by providing pre-defined config files that were isolated from a fresh [KDE neon](https://neon.kde.org/) installation. It contains modifications all over KDE from little things aka not showing the icon at window's title bar to changing some of the global shortcuts (described further below).
 
 ### How do I get it ?
-You can get it by simply running the line bellow :point_down:
+You can get it by simply running the line bellow in your terminal :point_down:
 ```bash
 cd $(mktemp -d) && wget https://github.com/paulondc/kdeNeonDefaults/archive/master.zip -O kdeNeonDefaults.zip && unzip kdeNeonDefaults.zip && cd kdeNeonDefaults-master && ./setup
 ```
