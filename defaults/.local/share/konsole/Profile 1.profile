@@ -1,5 +1,5 @@
 [Appearance]
-ColorScheme=DarkPastels
+ColorScheme=Breeze
 Font=DejaVu Sans Mono,10,-1,5,50,0,0,0,0,0
 
 [Cursor Options]
