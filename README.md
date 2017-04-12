@@ -2,7 +2,7 @@
 
 ## What is this project about ?
 
-This project is used to share initial [KDE neon](https://neon.kde.org/) settings that simplify even further some of the defaults in KDE neon. The overall goal is to provide an clean & powerful workflow without giving up usability enhancements that take advantage of modern hardware.
+This project is used to share initial [KDE neon](https://neon.kde.org/) settings that simplify even further some of the defaults in KDE neon. The overall goal is to provide a clean & powerful workflow without giving up usability enhancements that take advantage of modern hardware.
 
 It's available in two flavours:
 
